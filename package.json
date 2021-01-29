@@ -1,0 +1,23 @@
+{
+  "name": "mern-e-commerce-web-app",
+  "version": "1.0.0",
+  "description": "## Instructions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node back-end/server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakilk130/MERN-e-commerce-web-app.git"
+  },
+  "author": "Sakil Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakilk130/MERN-e-commerce-web-app/issues"
+  },
+  "homepage": "https://github.com/sakilk130/MERN-e-commerce-web-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
