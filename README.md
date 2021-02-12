@@ -22,4 +22,13 @@ $ npm start # or yarn start
 
 ## Built with
 
-- Reactjs
+### FrontEnd
+
+- reactjs
+- redux
+
+### Backend
+
+- nodejs
+- expressjs
+- mongodb
